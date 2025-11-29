@@ -8,9 +8,10 @@ This repository contains my QA portfolio projects including test cases for Web, 
 
 2. **REST API Testing (Postman)**  
    [📄 Test Cases Document](./TestCases_RESTAPI.docx)
-  ![Screenshot 1] (./screenshots/Screenshots_API_Testing.png)
 
-3. **Mobile App Testing – To-Do App (Android)**  
+![Screenshot] (./screenshots/Screenshots_API_Testing.png)
+
+4. **Mobile App Testing – To-Do App (Android)**  
    [📄 Test Cases Document](./TestCases_MobileApp.docx)
 
   
