@@ -12,6 +12,9 @@ This repository contains my QA portfolio projects including test cases for Web, 
 3. **Mobile App Testing – To-Do App (Android)**  
    [📄 Test Cases Document](./TestCases_MobileApp.docx)
 
+**Bug Report** 
+[Bug Report]](./BugReport_ToDoApp.docx)
+
 **ScreenShots Avaiable in Screenshot Folder**
   
 
