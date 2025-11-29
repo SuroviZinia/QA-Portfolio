@@ -13,7 +13,7 @@ This repository contains my QA portfolio projects including test cases for Web, 
    [📄 Test Cases Document](./TestCases_MobileApp.docx)
 
 **Bug Report** 
-[Bug Report]](./BugReport_ToDoApp.docx)
+[Bug Report](./BugReport_ToDoApp.docx)
 
 **ScreenShots Avaiable in Screenshot Folder**
   
